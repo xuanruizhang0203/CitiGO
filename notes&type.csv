@@ -1,0 +1,15 @@
+notes,type
+ 2_LINE  5_LINE Uptown trains run express from 3 Av-149 St to E 180 St,run express
+ 2_LINE Downtown trains run local from 96 St to Times Sq-42 St,run local
+" 2_LINE Flatbush Av-bound trains skip Nereid Av, 233 St, 225 St and 219 St",skip
+ 2_LINE trains replace weekend  5_LINE service between Dyre Av and E 180 St,replace
+ 4_LINE All trains from Junius St to Sutter Av-Rutland Rd board at the New Lots Av-bound platform,platform change
+ 4_LINE No trains between Utica Av and New Lots Av,no train
+ A_LINE Trains make local stops in both directions at 155 St and 163 St,make stop
+ D_LINE  N_LINE  R_LINE Prospect Av is closed for renovation,close
+ F_LINE Jamaica-bound trains are rerouted via the  E_LINE after 47-50 Sts to Roosevelt Av,reroute
+" F_LINE Manhattan-bound platforms at Avenue U, Avenue P, Avenue N, Bay Pkwy  and Avenue I are closed for renovation",perform and close
+ L_LINE Service operates every 12 minutes between Myrtle-Wyckoff Avs and Rockaway Pkwy,operation frequency
+ M_LINE Service ends early between 71 Av and Essex St E_LINE  F_LINE  R_LINE trains provide alternate service,end_early
+ R_LINE Service restored at Bay Ridge Av,restore
+ sir_LINE Grant City Station Entrance Closure,entrance closure
